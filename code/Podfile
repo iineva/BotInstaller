@@ -1,0 +1,14 @@
+source 'git@10.1.1.219:iOS/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'Alamofire'
+pod 'PINCache'
+pod 'SwiftyJSON'
+pod 'AlamofireObjectMapper'
+pod 'ObjectMapper'
+pod 'NSObjectExtend'
+pod 'SVProgressHUD'
+pod 'zipzap'
+pod 'Swifter'
+pod 'UITableView+FDTemplateLayoutCell'

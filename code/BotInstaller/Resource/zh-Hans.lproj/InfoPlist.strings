@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+
+  Created by Steven on 14/12/11.
+  Copyright (c) 2014年 Neva. All rights reserved.
+*/
+
+/**
+ *  桌面显示App名字
+ */
+"CFBundleDisplayName" = "BotInstaller";

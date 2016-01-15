@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (3.1.4)
+  - AlamofireObjectMapper (2.1.0):
+    - Alamofire (~> 3.1.0)
+    - ObjectMapper (~> 1.0)
+  - NSObjectExtend (1.8.1):
+    - NSObjectExtend/All (= 1.8.1)
+  - NSObjectExtend/All (1.8.1):
+    - NSObjectExtend/Core
+    - NSObjectExtend/CoreLocation
+    - NSObjectExtend/UIKit
+  - NSObjectExtend/Core (1.8.1)
+  - NSObjectExtend/CoreLocation (1.8.1):
+    - NSObjectExtend/Core
+  - NSObjectExtend/UIKit (1.8.1):
+    - NSObjectExtend/Core
+  - ObjectMapper (1.1.1)
+  - PINCache (2.1.2)
+  - SVProgressHUD (1.1.3)
+  - Swifter (1.0.6)
+  - SwiftyJSON (2.3.2)
+  - UITableView+FDTemplateLayoutCell (1.4)
+  - zipzap (8.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - NSObjectExtend
+  - ObjectMapper
+  - PINCache
+  - SVProgressHUD
+  - Swifter
+  - SwiftyJSON
+  - UITableView+FDTemplateLayoutCell
+  - zipzap
+
+SPEC CHECKSUMS:
+  Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  AlamofireObjectMapper: 24097576202064f8b0a583452dd934064f78dc0e
+  NSObjectExtend: cf77da3b288c26bd695584bada8f891e0cddad18
+  ObjectMapper: 4143abed1dbd49b73d75092fe8fa1c88ed6434b7
+  PINCache: 9e70271f1bdd60c0465b7208adcc4b6acc1fc376
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  Swifter: 9273ad9131c13646fed28980bfe72b927394cd45
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+  zipzap: 940162d9c9c60472c2eab341385e4214da0fdf1c
+
+COCOAPODS: 0.39.0
